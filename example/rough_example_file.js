@@ -1,5 +1,5 @@
 // mygengo set up
-var mygengo = require('../lib/mygengo_node');
+var mygengo = require('../lib/mygengo');
 var mg_public_key = "YOUR PUBLIC KEY",
 	mg_private_key = "YOUR PRIVATE KEY";
 	mg_callback_functions = {

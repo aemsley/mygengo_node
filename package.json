@@ -1,4 +1,4 @@
-{ "name": "node_mygengo"
+{ "name": "mygengo"
 , "description":  "API wrapper for myGengo's Human translation service"
 , "version":  "0.0.1"
 , "author": "aemsley <adam@mygengo.com>"
@@ -7,6 +7,6 @@
 , "directories":  { "lib": "./lib" }
 , "scripts": { "test": "make test" }
 , "engines": { "node": ">= 0.2.6" }
-, "main": "./node_mygengo"
+, "main": "./mygengo"
 , "licenses": [ { "type": "The MIT License", "url": "http://www.opensource.org/licenses/mit-license.php" } ]
 }
